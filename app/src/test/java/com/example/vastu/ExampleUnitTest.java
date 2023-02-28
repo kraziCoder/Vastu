@@ -1,4 +1,4 @@
-package com.example.sda_a5_real_estate_app_jasminekhalimova;
+package com.example.vastu;
 
 import org.junit.Test;
 import org.junit.jupiter.api.Test;

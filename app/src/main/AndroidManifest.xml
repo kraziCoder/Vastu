@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.sda_a5_real_estate_app_jasminekhalimova">
+    package="com.example.vastu">
 
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
@@ -15,16 +15,16 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Login" />
-        <activity android:name=".ListingsFragment" />
-        <activity android:name=".AdsFragment" />
-        <activity android:name=".Register">
+        <activity android:name="com.example.vastu.Login" />
+        <activity android:name="com.example.vastu.ListingsFragment" />
+        <activity android:name="com.example.vastu.AdsFragment" />
+        <activity android:name="com.example.vastu.Register">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".MainActivity">
+        <activity android:name="com.example.vastu.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />

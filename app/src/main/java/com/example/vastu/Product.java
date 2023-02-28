@@ -1,6 +1,4 @@
-package com.example.sda_a5_real_estate_app_jasminekhalimova;
-
-import java.util.List;
+package com.example.vastu;
 
 public class Product {
     private String Title;

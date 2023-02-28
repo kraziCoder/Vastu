@@ -1,4 +1,4 @@
-package com.example.sda_a5_real_estate_app_jasminekhalimova;
+package com.example.vastu;
 
 import android.Manifest;
 import android.app.Activity;
@@ -36,7 +36,6 @@ import com.google.firebase.firestore.FirebaseFirestoreException;
 import com.google.firebase.storage.FirebaseStorage;
 import com.google.firebase.storage.StorageReference;
 import com.google.firebase.storage.UploadTask;
-import com.squareup.picasso.Picasso;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -44,7 +43,7 @@ import java.util.Map;
 import javax.annotation.Nullable;
 
 /**
- * Author: Jasmine Khalimova
+ * 
  * Post an Ad Form
  *
  */

@@ -1,4 +1,4 @@
-package com.example.sda_a5_real_estate_app_jasminekhalimova;
+package com.example.vastu;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AlertDialog;
@@ -22,7 +22,7 @@ import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
 
 /**
- * Author: Jasmine Khalimova
+ * 
  *
  * User Case: Login Form.
  *

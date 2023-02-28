@@ -1,4 +1,4 @@
-package com.example.sda_a5_real_estate_app_jasminekhalimova;
+package com.example.vastu;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -27,7 +27,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Author: Jasmine Khalimova
+ * 
  *
  * Registration form
  *
